@@ -19,7 +19,7 @@ const App = () => {
       <p>Neutraali: {neutral}</p>
       <p>Huono: {bad} </p>
 
-      <p>Yhteensärr 4 ääniä: {total}</p>
+      <p>Yhteensää: {total}</p>
     </div>
   )
 }
