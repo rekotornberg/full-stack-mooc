@@ -22,7 +22,7 @@ const App = () => {
           id: 3
         },
         {
-          name: 'Redux',
+          name: 'Reduxi',
           exercises: 11,
           id: 4
         }
